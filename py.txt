@@ -1,0 +1,12 @@
+alto nível 
+dinâmica
+fortemente tipada
+OO
+Indentaçã define blocos
+
+Criada como alternativa à C
+
+---------
+desenvolve script-> interpreta -> py compila e retorna
+
+existe a função elif que é else+if
